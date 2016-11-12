@@ -21,8 +21,9 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{FF7DDD46-19A9-4CE9-BA1B-F43FF1BAC8AE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>cpp_mouseleftclick</RootNamespace>
+    <RootNamespace>win32api_mouseleftclick</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>win32api_mouseleftclick</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
