@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_basic", "cpp_basic\cpp_basic.vcxproj", "{819C23AE-83B0-4C91-85C6-418C2AFB0349}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "win32api_basic", "cpp_basic\cpp_basic.vcxproj", "{819C23AE-83B0-4C91-85C6-418C2AFB0349}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
